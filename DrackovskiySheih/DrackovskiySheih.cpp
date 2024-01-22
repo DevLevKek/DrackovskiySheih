@@ -3,7 +3,7 @@
 
 int main()
 {
-  cout << "Hello World!\n";
+  cout << "Hello\n";
   cout << "test 4";
 }
 	
