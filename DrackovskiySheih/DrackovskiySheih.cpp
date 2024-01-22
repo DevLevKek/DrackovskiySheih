@@ -4,5 +4,6 @@
 int main()
 {
   cout << "Hello World!\n";
+  cout << "test 1";
 }
 	
